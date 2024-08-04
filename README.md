@@ -17,6 +17,40 @@ This project automates the extraction and analysis of data from PDF documents, c
   - Libraries: PyMuPDF, pytesseract, pdf2image, Pillow, pandas, openpyxl, OpenCV, Google Translate API, Camelot, Tabula
 - **Others**: pyngrok
 
+# PDF to Excel Converter
+
+This project automates the extraction and analysis of data from PDF documents, converting unstructured data into structured Excel files. 
+
+## Features
+- Convert multiple PDF files into a single Excel file.
+- Extract text and checkbox selections from PDF files.
+- Supports multi-language OCR and translation.
+- Provides hyperlinks to detected images in the Excel file.
+- Achieves over 95% accuracy in text extraction and checkbox recognition.
+- Reduces manual data entry time by 80%.
+
+## Technologies Used
+- **Frontend:** Streamlit
+- **Backend:** Python (PyMuPDF, pytesseract, pdf2image, Pillow, pandas, openpyxl, OpenCV, Google Translate API, Camelot, Tabula)
+- **Deployment:** pyngrok
+
+## Screenshots
+![Screenshot 1](https://github.com/YourUsername/YourRepoName/blob/main/Screenshot%202024-08-04%20103555.png)
+![Screenshot 2](https://github.com/YourUsername/YourRepoName/blob/main/Screenshot%202024-08-04%20103612.png)
+![Screenshot 3](https://github.com/YourUsername/YourRepoName/blob/main/Screenshot%202024-08-04%20103622.png)
+![Screenshot 4](https://github.com/YourUsername/YourRepoName/blob/main/Screenshot%202024-08-04%20103632.png)
+![Screenshot 5](https://github.com/YourUsername/YourRepoName/blob/main/Screenshot%202024-08-04%20103951.png)
+![Screenshot 6](https://github.com/YourUsername/YourRepoName/blob/main/Screenshot%202024-08-04%20104032.png)
+![Screenshot 7](https://github.com/YourUsername/YourRepoName/blob/main/Screenshot%202024-08-04%20104047.png)
+
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/SanjanaReddySangam/Automated-PDF-Data-Extraction.git
+   cd Automated-PDF-Data-Extraction
+
+
 ## Statistics
 
 - Achieved over 95% accuracy in text extraction and checkbox recognition.
